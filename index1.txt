@@ -1,2 +1,2 @@
 Hi this is my first git file
-
+Push cmd is using for GITHUB
